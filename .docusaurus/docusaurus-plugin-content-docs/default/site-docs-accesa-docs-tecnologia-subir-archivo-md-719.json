@@ -1,0 +1,23 @@
+{
+  "id": "accesa-docs/tecnologia/subirArchivoTecnologia",
+  "title": "Subir Archivos",
+  "description": "Aquí puedes subir y guardar archivos.",
+  "source": "@site/docs/accesa-docs/tecnologia/subir-archivo.md",
+  "sourceDirName": "accesa-docs/tecnologia",
+  "slug": "/accesa-docs/tecnologia/subirArchivoTecnologia",
+  "permalink": "/docs/accesa-docs/tecnologia/subirArchivoTecnologia",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Accesa-Desarrollo/Accesa-Docs/docs/accesa-docs/tecnologia/subir-archivo.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "subirArchivoTecnologia",
+    "title": "Subir Archivos"
+  },
+  "sidebar": "tecnologiaSidebar",
+  "previous": {
+    "title": "1",
+    "permalink": "/docs/accesa-docs/tecnologia/1"
+  }
+}

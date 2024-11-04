@@ -1,0 +1,17 @@
+{
+  "id": "accesa-docs/tecnologia/subirArchivoTecnologia",
+  "title": "Subir Archivos",
+  "description": "---",
+  "source": "@site/docs/accesa-docs/tecnologia/subir-archivo.mdx",
+  "sourceDirName": "accesa-docs/tecnologia",
+  "slug": "/accesa-docs/tecnologia/subirArchivoTecnologia",
+  "permalink": "/docs/accesa-docs/tecnologia/subirArchivoTecnologia",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "subirArchivoTecnologia",
+    "title": "Subir Archivos"
+  }
+}

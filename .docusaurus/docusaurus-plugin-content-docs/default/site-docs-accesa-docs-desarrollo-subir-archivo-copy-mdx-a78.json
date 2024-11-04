@@ -1,0 +1,22 @@
+{
+  "id": "accesa-docs/desarrollo/subirArchivoDesarrollo",
+  "title": "Subir Archivos",
+  "description": "---",
+  "source": "@site/docs/accesa-docs/desarrollo/subir-archivo copy.mdx",
+  "sourceDirName": "accesa-docs/desarrollo",
+  "slug": "/accesa-docs/desarrollo/subirArchivoDesarrollo",
+  "permalink": "/docs/accesa-docs/desarrollo/subirArchivoDesarrollo",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "subirArchivoDesarrollo",
+    "title": "Subir Archivos"
+  },
+  "sidebar": "desarrolloSidebar",
+  "next": {
+    "title": "Capital Humano",
+    "permalink": "/docs/accesa-docs/desarrollo/dashboard-accesa"
+  }
+}

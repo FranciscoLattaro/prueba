@@ -1,0 +1,26 @@
+{
+  "id": "accesa-docs/desarrollo/Dashboard/dashboard-process",
+  "title": "Documentación de los Endpoint del Dashboard Process",
+  "description": "Introducción",
+  "source": "@site/docs/accesa-docs/desarrollo/Dashboard/dashboard-process.md",
+  "sourceDirName": "accesa-docs/desarrollo/Dashboard",
+  "slug": "/accesa-docs/desarrollo/Dashboard/dashboard-process",
+  "permalink": "/docs/accesa-docs/desarrollo/Dashboard/dashboard-process",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "dashboard-process",
+    "title": "Documentación de los Endpoint del Dashboard Process"
+  },
+  "sidebar": "desarrolloSidebar",
+  "previous": {
+    "title": "Capital Humano",
+    "permalink": "/docs/accesa-docs/desarrollo/Dashboard/dashboard-accesa"
+  },
+  "next": {
+    "title": "Ayuda a Primera Infancia",
+    "permalink": "/docs/accesa-docs/desarrollo/APInfancia"
+  }
+}

@@ -1,0 +1,27 @@
+{
+  "id": "accesa-docs/desarrollo/dashboard-accesa",
+  "title": "Dashboard Accesa S.A - Documentación Capital Humano",
+  "description": "Índice",
+  "source": "@site/docs/accesa-docs/desarrollo/Dashboard Backend.md",
+  "sourceDirName": "accesa-docs/desarrollo",
+  "slug": "/accesa-docs/desarrollo/dashboard-accesa",
+  "permalink": "/docs/accesa-docs/desarrollo/dashboard-accesa",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "dashboard-accesa",
+    "title": "Dashboard Accesa S.A - Documentación Capital Humano",
+    "sidebar_label": "Capital Humano"
+  },
+  "sidebar": "desarrolloSidebar",
+  "previous": {
+    "title": "Subir Archivos",
+    "permalink": "/docs/accesa-docs/desarrollo/subirArchivoDesarrollo"
+  },
+  "next": {
+    "title": "Ayuda a Primera Infancia",
+    "permalink": "/docs/accesa-docs/desarrollo/APInfancia"
+  }
+}

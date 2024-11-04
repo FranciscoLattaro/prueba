@@ -1,0 +1,27 @@
+{
+  "id": "accesa-docs/desarrollo/1",
+  "title": "1",
+  "description": "",
+  "source": "@site/docs/accesa-docs/desarrollo/1.md",
+  "sourceDirName": "accesa-docs/desarrollo",
+  "slug": "/accesa-docs/desarrollo/1",
+  "permalink": "/docs/accesa-docs/desarrollo/1",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/docs/accesa-docs/desarrollo/1.md",
+  "tags": [],
+  "version": "current",
+  "sidebarPosition": 1,
+  "frontMatter": {
+    "sidebar_position": 1
+  },
+  "sidebar": "desarrolloSidebar",
+  "previous": {
+    "title": "Área Desarrollo",
+    "permalink": "/docs/category/área-desarrollo-1"
+  },
+  "next": {
+    "title": "Dashboard Accesa S.A",
+    "permalink": "/docs/accesa-docs/desarrollo/dashboard-accesa"
+  }
+}

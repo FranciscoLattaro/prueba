@@ -1,0 +1,23 @@
+{
+  "id": "accesa-docs/desarrollo/subirArchivoDesarrollo",
+  "title": "Subir Archivos",
+  "description": "Aquí puedes subir y guardar archivos.",
+  "source": "@site/docs/accesa-docs/desarrollo/subir-archivo.md",
+  "sourceDirName": "accesa-docs/desarrollo",
+  "slug": "/accesa-docs/desarrollo/subirArchivoDesarrollo",
+  "permalink": "/docs/accesa-docs/desarrollo/subirArchivoDesarrollo",
+  "draft": false,
+  "unlisted": false,
+  "editUrl": "https://github.com/Accesa-Desarrollo/Accesa-Docs/docs/accesa-docs/desarrollo/subir-archivo.md",
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "subirArchivoDesarrollo",
+    "title": "Subir Archivos"
+  },
+  "sidebar": "desarrolloSidebar",
+  "previous": {
+    "title": "Capital Humano",
+    "permalink": "/docs/accesa-docs/desarrollo/dashboard-accesa"
+  }
+}

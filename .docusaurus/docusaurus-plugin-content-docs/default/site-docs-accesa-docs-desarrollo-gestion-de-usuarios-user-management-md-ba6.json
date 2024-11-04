@@ -1,0 +1,26 @@
+{
+  "id": "accesa-docs/desarrollo/Gestion de Usuarios/user-management",
+  "title": "Documentación relacionada a la funcionalidad de Gestión de Usuarios",
+  "description": "Introducción",
+  "source": "@site/docs/accesa-docs/desarrollo/Gestion de Usuarios/user-management.md",
+  "sourceDirName": "accesa-docs/desarrollo/Gestion de Usuarios",
+  "slug": "/accesa-docs/desarrollo/Gestion de Usuarios/user-management",
+  "permalink": "/docs/accesa-docs/desarrollo/Gestion de Usuarios/user-management",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "user-management",
+    "title": "Documentación relacionada a la funcionalidad de Gestión de Usuarios"
+  },
+  "sidebar": "desarrolloSidebar",
+  "previous": {
+    "title": "Ayuda a Primera Infancia",
+    "permalink": "/docs/accesa-docs/desarrollo/APInfancia"
+  },
+  "next": {
+    "title": "Ayuda a Primera Infancia",
+    "permalink": "/docs/accesa-docs/desarrollo/APInfancia"
+  }
+}

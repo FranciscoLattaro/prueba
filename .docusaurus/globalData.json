@@ -1,0 +1,132 @@
+{
+  "docusaurus-plugin-content-docs": {
+    "default": {
+      "path": "/docs",
+      "versions": [
+        {
+          "name": "current",
+          "label": "Next",
+          "isLast": true,
+          "path": "/docs",
+          "mainDocId": "Tutorial/intro",
+          "docs": [
+            {
+              "id": "accesa-docs/desarrollo/APInfancia",
+              "path": "/docs/accesa-docs/desarrollo/APInfancia",
+              "sidebar": "desarrolloSidebar"
+            },
+            {
+              "id": "accesa-docs/desarrollo/Dashboard/dashboard-accesa",
+              "path": "/docs/accesa-docs/desarrollo/Dashboard/dashboard-accesa",
+              "sidebar": "desarrolloSidebar"
+            },
+            {
+              "id": "accesa-docs/desarrollo/Dashboard/dashboard-process",
+              "path": "/docs/accesa-docs/desarrollo/Dashboard/dashboard-process",
+              "sidebar": "desarrolloSidebar"
+            },
+            {
+              "id": "accesa-docs/desarrollo/formularioDesarrollo",
+              "path": "/docs/accesa-docs/desarrollo/formularioDesarrollo",
+              "sidebar": "desarrolloSidebar"
+            },
+            {
+              "id": "accesa-docs/desarrollo/Gestion de Usuarios/user-management",
+              "path": "/docs/accesa-docs/desarrollo/Gestion de Usuarios/user-management",
+              "sidebar": "desarrolloSidebar"
+            },
+            {
+              "id": "accesa-docs/desarrollo/NewPortal/performance-evaluation-backend",
+              "path": "/docs/accesa-docs/desarrollo/NewPortal/performance-evaluation-backend",
+              "sidebar": "desarrolloSidebar"
+            },
+            {
+              "id": "accesa-docs/desarrollo/subirArchivoDesarrollo",
+              "path": "/docs/accesa-docs/desarrollo/subirArchivoDesarrollo",
+              "sidebar": "desarrolloSidebar"
+            },
+            {
+              "id": "accesa-docs/tecnologia/1",
+              "path": "/docs/accesa-docs/tecnologia/1"
+            },
+            {
+              "id": "accesa-docs/tecnologia/subirArchivoTecnologia",
+              "path": "/docs/accesa-docs/tecnologia/subirArchivoTecnologia"
+            },
+            {
+              "id": "Tutorial/intro",
+              "path": "/docs/Tutorial/intro",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Tutorial/tutorial-basics/congratulations",
+              "path": "/docs/Tutorial/tutorial-basics/congratulations",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Tutorial/tutorial-basics/create-a-blog-post",
+              "path": "/docs/Tutorial/tutorial-basics/create-a-blog-post",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Tutorial/tutorial-basics/create-a-document",
+              "path": "/docs/Tutorial/tutorial-basics/create-a-document",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Tutorial/tutorial-basics/create-a-page",
+              "path": "/docs/Tutorial/tutorial-basics/create-a-page",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Tutorial/tutorial-basics/deploy-your-site",
+              "path": "/docs/Tutorial/tutorial-basics/deploy-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Tutorial/tutorial-basics/markdown-features",
+              "path": "/docs/Tutorial/tutorial-basics/markdown-features",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Tutorial/tutorial-extras/manage-docs-versions",
+              "path": "/docs/Tutorial/tutorial-extras/manage-docs-versions",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "Tutorial/tutorial-extras/translate-your-site",
+              "path": "/docs/Tutorial/tutorial-extras/translate-your-site",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/tutorial---basics",
+              "path": "/docs/category/tutorial---basics",
+              "sidebar": "tutorialSidebar"
+            },
+            {
+              "id": "/category/tutorial---extras",
+              "path": "/docs/category/tutorial---extras",
+              "sidebar": "tutorialSidebar"
+            }
+          ],
+          "draftIds": [],
+          "sidebars": {
+            "tutorialSidebar": {
+              "link": {
+                "path": "/docs/Tutorial/intro",
+                "label": "Tutorial/intro"
+              }
+            },
+            "desarrolloSidebar": {
+              "link": {
+                "path": "/docs/accesa-docs/desarrollo/formularioDesarrollo",
+                "label": "accesa-docs/desarrollo/formularioDesarrollo"
+              }
+            }
+          }
+        }
+      ],
+      "breadcrumbs": true
+    }
+  }
+}

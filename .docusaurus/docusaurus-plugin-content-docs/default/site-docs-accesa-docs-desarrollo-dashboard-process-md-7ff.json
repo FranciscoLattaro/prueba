@@ -1,0 +1,22 @@
+{
+  "id": "accesa-docs/desarrollo/dashboard-process",
+  "title": "Documentación de los Endpoint del Dashboard Process",
+  "description": "Introducción",
+  "source": "@site/docs/accesa-docs/desarrollo/dashboard-process.md",
+  "sourceDirName": "accesa-docs/desarrollo",
+  "slug": "/accesa-docs/desarrollo/dashboard-process",
+  "permalink": "/docs/accesa-docs/desarrollo/dashboard-process",
+  "draft": false,
+  "unlisted": false,
+  "tags": [],
+  "version": "current",
+  "frontMatter": {
+    "id": "dashboard-process",
+    "title": "Documentación de los Endpoint del Dashboard Process"
+  },
+  "sidebar": "desarrolloSidebar",
+  "previous": {
+    "title": "Ayuda a Primera Infancia",
+    "permalink": "/docs/accesa-docs/desarrollo/APInfancia"
+  }
+}
